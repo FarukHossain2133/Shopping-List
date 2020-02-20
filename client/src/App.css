@@ -1,0 +1,22 @@
+
+
+.remove-btn {
+    margin-right: 0.5rem;
+}
+.myList-enter {
+    opacity: 0.01;
+}
+
+.myList-enter-active {
+    opacity: 1;
+    transition: opacity 1000ms ease-in;
+}
+
+.myList-exit {
+    opacity: 1;
+}
+
+.myList-exit-active {
+    opacity: 0.01;
+}
+
